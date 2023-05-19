@@ -1,0 +1,17 @@
+C:\Users\Campi\source\repos\14.8GuessNumberSK\14.8GuessNumberSK\bin\Debug\net6.0-windows\14.8GuessNumberSK.exe
+C:\Users\Campi\source\repos\14.8GuessNumberSK\14.8GuessNumberSK\bin\Debug\net6.0-windows\14.8GuessNumberSK.deps.json
+C:\Users\Campi\source\repos\14.8GuessNumberSK\14.8GuessNumberSK\bin\Debug\net6.0-windows\14.8GuessNumberSK.runtimeconfig.json
+C:\Users\Campi\source\repos\14.8GuessNumberSK\14.8GuessNumberSK\bin\Debug\net6.0-windows\14.8GuessNumberSK.dll
+C:\Users\Campi\source\repos\14.8GuessNumberSK\14.8GuessNumberSK\bin\Debug\net6.0-windows\14.8GuessNumberSK.pdb
+C:\Users\Campi\source\repos\14.8GuessNumberSK\14.8GuessNumberSK\obj\Debug\net6.0-windows\14.8GuessNumberSK.csproj.AssemblyReference.cache
+C:\Users\Campi\source\repos\14.8GuessNumberSK\14.8GuessNumberSK\obj\Debug\net6.0-windows\_14._8GuessNumberSK.Form1.resources
+C:\Users\Campi\source\repos\14.8GuessNumberSK\14.8GuessNumberSK\obj\Debug\net6.0-windows\14.8GuessNumberSK.csproj.GenerateResource.cache
+C:\Users\Campi\source\repos\14.8GuessNumberSK\14.8GuessNumberSK\obj\Debug\net6.0-windows\14.8GuessNumberSK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Campi\source\repos\14.8GuessNumberSK\14.8GuessNumberSK\obj\Debug\net6.0-windows\14.8GuessNumberSK.AssemblyInfoInputs.cache
+C:\Users\Campi\source\repos\14.8GuessNumberSK\14.8GuessNumberSK\obj\Debug\net6.0-windows\14.8GuessNumberSK.AssemblyInfo.cs
+C:\Users\Campi\source\repos\14.8GuessNumberSK\14.8GuessNumberSK\obj\Debug\net6.0-windows\14.8GuessNumberSK.csproj.CoreCompileInputs.cache
+C:\Users\Campi\source\repos\14.8GuessNumberSK\14.8GuessNumberSK\obj\Debug\net6.0-windows\14.8GuessNumberSK.dll
+C:\Users\Campi\source\repos\14.8GuessNumberSK\14.8GuessNumberSK\obj\Debug\net6.0-windows\refint\14.8GuessNumberSK.dll
+C:\Users\Campi\source\repos\14.8GuessNumberSK\14.8GuessNumberSK\obj\Debug\net6.0-windows\14.8GuessNumberSK.pdb
+C:\Users\Campi\source\repos\14.8GuessNumberSK\14.8GuessNumberSK\obj\Debug\net6.0-windows\14.8GuessNumberSK.genruntimeconfig.cache
+C:\Users\Campi\source\repos\14.8GuessNumberSK\14.8GuessNumberSK\obj\Debug\net6.0-windows\ref\14.8GuessNumberSK.dll
